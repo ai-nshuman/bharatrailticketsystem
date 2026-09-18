@@ -1,7 +1,7 @@
 # Railway Reservation System
 
 ## 1. Project Title
-Railway Reservation System
+ Bharat Rail Reservation System
 
 ## 2. Project Overview
 A simple command-line railway reservation system implemented in Core Java. The system allows users to view trains, search for trains by route, book tickets (with unique PNR and seat assignment), view booking details, cancel tickets, and view all bookings. The entire application is contained in a single Java file (`Main.java`) for simplicity and ease of submission.
